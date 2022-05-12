@@ -1,0 +1,12 @@
+# No request type
+---
+string UN_INITIALIZED="UnInitialized"
+string READY="Ready"
+string RUNNING="Running"
+string MOTOR_1_SERVO_ERROR="Motor1ServoError"
+string MOTOR_1_ERROR="Motor1Error"
+string MOTOR_2_SERVO_ERROR="Motor2ServoError"
+string MOTOR_2_ERROR="Motor2Error"
+string NO_SYNC="NoSync"
+
+string status

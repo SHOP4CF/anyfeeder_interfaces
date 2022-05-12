@@ -1,0 +1,2 @@
+uint8 repetitions
+uint8 speed
